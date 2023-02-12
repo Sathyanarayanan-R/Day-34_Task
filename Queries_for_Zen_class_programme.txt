@@ -5,10 +5,10 @@
 Database Name : "Zen_class_programme"
 Collections : 
 
-users :
-topics :
-mentors :
-company_drives :
+users : https://github.com/Sathyanarayanan-R/Day-34_Task/blob/main/users.json
+topics : https://github.com/Sathyanarayanan-R/Day-34_Task/blob/main/topics.json
+mentors : https://github.com/Sathyanarayanan-R/Day-34_Task/blob/main/mentors.json
+company_drives : https://github.com/Sathyanarayanan-R/Day-34_Task/blob/main/company_drives.json
 
 ********************************************
 
